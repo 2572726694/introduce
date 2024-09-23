@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/2572726694/reactjs-covid19-tracker/refs/heads/main/snake.svg" alt="Snake animation" />
 
 ###
